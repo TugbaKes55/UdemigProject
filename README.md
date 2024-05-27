@@ -4,7 +4,7 @@ User-friendly interface was designed using Bootstrap. This fully responsive proj
 
 # Features
 
-- Collapsible Navbar
+- Dropdown Menu
 - Responsive Design
 - User-Friendly Interface.
 
