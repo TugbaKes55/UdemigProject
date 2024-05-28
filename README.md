@@ -8,7 +8,7 @@ User-friendly interface was designed using Bootstrap. This fully responsive proj
 - Responsive Design
 - User-Friendly Interface.
 
-# ScreenShot
+# Preview
 
 ![ekran](https://github.com/TugbaKes55/UdemigProject/assets/170290830/9a3a9f41-b335-4c7a-b329-8c360b7600ab)
 
